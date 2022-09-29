@@ -126,7 +126,7 @@ border-right: 5px solid var(--bio-border-color);
     font-size: 24px;
     margin-bottom: 15px;
     font-family: 'Rubik Dirt', cursive;
-    font-weight: lighter;
+    font-weight: bold;
   }
 
   .description {
