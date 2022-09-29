@@ -51,6 +51,7 @@ border-right: 5px solid var(--bio-border-color);
 
 #bio-container h2 {
     margin-bottom: 25px;
+    color: #c7c9d1;
     font-family: 'Rubik Dirt', cursive;
     font-weight: lighter;
 }
