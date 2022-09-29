@@ -118,12 +118,15 @@ border-right: 5px solid var(--bio-border-color);
   #name{
     font-size: 42px;
     margin-bottom: 15px;
+    font-family: 'Rubik Dirt', cursive;
+    font-weight: lighter;  
   }
 
   #title {
     font-size: 24px;
     margin-bottom: 15px;
-    font-weight: bold;
+    font-family: 'Rubik Dirt', cursive;
+    font-weight: lighter;
   }
 
   .description {
